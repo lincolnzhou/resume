@@ -18,6 +18,8 @@
 
 **github**：https://github.com/lincolnzhou
 
+**博客**：http://lincolnzhou.github.io
+
 **英语水平**：一次性通过四六级
 
 **期望职位**：PHP工程师，全栈工程师
